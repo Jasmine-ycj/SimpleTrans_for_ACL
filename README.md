@@ -4,7 +4,7 @@
 
 `./data_label/images/crops/ACL`
 
-- Bounding box annotation on 246 cases:
+- Bounding box annotations on 246 cases:
 
 `./data_label/labels_for_YOLO/all_YOLO_labels.zip`
 
