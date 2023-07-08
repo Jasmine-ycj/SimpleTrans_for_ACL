@@ -1,5 +1,9 @@
 # SimpleTrans_for_ACL
 ## Images & Labels
+- JPG images after preprocessing:
+  
+`./data_label/images/OAI-JPG.zip`
+
 - Images for classification (alreagy cropped according to the extracted ROI):
 
 `./data_label/images/crops/ACL`
